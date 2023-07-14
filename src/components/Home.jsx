@@ -26,7 +26,7 @@ const Home = () => {
         textAlign="center"
         fontWeight="bold"
         color="blackAlpha.900"
-        mt="-20"
+        mt="-110"
         display="flex"
         justifyContent="center"
         alignItems="center"

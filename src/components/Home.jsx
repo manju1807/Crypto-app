@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const Home = () => {
   return (
-    <Box bgColor={"blackAlpha.900"} w={"full"} h={"95vh"}>
+    <Box bgColor={"white"} w={"full"} h={"95vh"}>
       <motion.div
         style={{
           height: "80vh",
@@ -25,7 +25,7 @@ const Home = () => {
         fontSize="4xl"
         textAlign="center"
         fontWeight="bold"
-        color="whiteAlpha.700"
+        color="blackAlpha.900"
         mt="-20"
         display="flex"
         justifyContent="center"
@@ -33,7 +33,7 @@ const Home = () => {
       >
         My{" "}
         <span style={{ marginLeft: "10px", marginRight: "10px" }}>
-          <Text color="#48BB78">crypto</Text>
+          <Text color="#48BB68">crypto</Text>
         </span>{" "}
         exchange
       </Text>

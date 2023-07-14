@@ -32,7 +32,7 @@ const Footer = () => {
         </VStack>
         <VStack>
           <Avatar boxSize={"28"} mt={["4", "0"]} src={avatarSrc} />
-          <Text color="#48BB78">Founder</Text>
+          <Text color="#48BB78">Developer</Text>
         </VStack>
       </Stack>
     </Box>

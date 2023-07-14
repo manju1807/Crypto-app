@@ -17,7 +17,7 @@ const Footer = () => {
             <span style={{ marginRight: "10px" }}>
               <Text color="#48BB78">About</Text>
             </span>{" "}
-            Us
+            us
           </Text>
           <Text
             fontFamily={"italic"}
@@ -32,7 +32,9 @@ const Footer = () => {
         </VStack>
         <VStack>
           <Avatar boxSize={"28"} mt={["4", "0"]} src={avatarSrc} />
-          <Text color="#48BB78">Developer</Text>
+          <Text color="#48BB78" fontWeight={"medium"} fontFamily={"cursive"}>
+            Developer
+          </Text>
         </VStack>
       </Stack>
     </Box>

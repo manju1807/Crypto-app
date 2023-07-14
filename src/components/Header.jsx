@@ -5,8 +5,8 @@ import logo from "../assets/coin2.png";
 const Header = () => {
   return (
     <Flex
-      p={{ sm: "1", md: "1", lg: "1" }}
-      pl={{ sm: "3", md: "4", lg: "6" }}
+      p={{ sm: "2", md: "2", lg: "2" }}
+      pl={{ sm: "4", md: "4", lg: "6" }}
       pr={{ base: "4", md: "4", lg: "6" }}
       shadow="base"
       bgGradient="linear(to-r,rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.90))"

@@ -33,7 +33,7 @@ const Home = () => {
       >
         My{" "}
         <span style={{ marginLeft: "10px", marginRight: "10px" }}>
-          <Text color="#48BB68">crypto</Text>
+          <Text color="#48BB68">Crypto</Text>
         </span>{" "}
         Exchange
       </Text>
